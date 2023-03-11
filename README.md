@@ -11,16 +11,16 @@
 * [Shadowrocket_DIY.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/Shadowrocket_DIY.conf)
 
 * 模块配置：
-* [解锁日本](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/JP_Kooking.conf)
-* [解锁台湾](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/TW_Kooking.conf)
-* [解锁韩国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/KR_Kooking.conf)
-* [解锁美国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/US_Kooking.conf)
-* [解锁法国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/FR_Kooking.conf)
-* [解锁英国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/GB_Kooking.conf)
-* [解锁新加坡](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/SG_Kooking.conf)
-* [解锁俄罗斯](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/RU_Kooking.conf)
-* [解锁加拿大](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/CA_Kooking.conf)
-* [解锁澳大利亚](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/AU_Kooking.conf)
+* [解锁日本](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/JP_Kooking.sgmodule)
+* [解锁台湾](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/TW_Kooking.sgmodule)
+* [解锁韩国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/KR_Kooking.sgmodule)
+* [解锁美国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/US_Kooking.sgmodule)
+* [解锁法国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/FR_Kooking.sgmodule)
+* [解锁英国](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/GB_Kooking.sgmodule)
+* [解锁新加坡](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/SG_Kooking.sgmodule)
+* [解锁俄罗斯](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/RU_Kooking.sgmodule)
+* [解锁加拿大](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/CA_Kooking.sgmodule)
+* [解锁澳大利亚](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/AU_Kooking.sgmodule)
 
 * 附：TikTok分流规则：（已添加至懒人配置，无需再写入）
 * [TikTok_Flow.list](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/TikTok_Flow.list)

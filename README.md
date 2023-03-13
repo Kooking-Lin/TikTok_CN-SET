@@ -26,9 +26,9 @@
 ### 附：TikTok分流规则：（已添加至懒人配置，无需再写入）
 * [TikTok_Flow.list](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/TikTok_Flow.list)
 
-
-## Quantumult X懒人配置：（2022.10.15更新）
-### Quantumult X最新商店版支持Gallery订阅及Url测速：
+## Quantumult X 配置
+### Quantumult X 懒人配置：（2022.10.15更新）
+* Quantumult X最新商店版支持Gallery订阅及Url测速：
 * [QuantumultX_DIY.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/QuantumultX_SET/QuantumultX_DIY.conf)
 * [京东系列gallery订阅（Faker仓库）](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/QuantumultX_SET/QuantumultX_JD.json)
 * [自用除JD以外的签到脚本Gallery订阅](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/QuantumultX_SET/QuantumultX_Task.json)

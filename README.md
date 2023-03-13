@@ -1,12 +1,12 @@
 
-## 前置说明 :
+## 【前置说明】
 
 * 本配置只为本人自我方便而引入到本仓库，不对外也不承担任何责任。
 * 只本人是搬运和同步更新大佬脚本并测试自用，不负责维护脚本。
 * 十分感谢原作者为脚本的编写、调试和修正等所付出所有努力！
 * 原作者：w37fhy（北纬37度的大飞），电报频道：https://t.me/w37fhyx
 
-## ShadowRocket 配置
+## 【ShadowRocket 配置】
 ### ShadowRocket 懒人配置：（2023.01.10更新）
 * 本懒人配置包含策略组和分流规则，特别是TikTok分流及相关区域的解锁模块等。
 * [Shadowrocket_DIY.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/Shadowrocket_DIY.conf)
@@ -26,14 +26,14 @@
 ### 附：TikTok分流规则：（已添加至懒人配置，无需再写入）
 * [TikTok_Flow.list](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/ShadowRocket_SET/TikTok_Flow.list)
 
-## Quantumult X 配置
+## 【Quantumult X 配置】
 ### Quantumult X 懒人配置：（2022.10.15更新）
 * Quantumult X最新商店版支持Gallery订阅及Url测速：
 * [QuantumultX_DIY.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/QuantumultX_SET/QuantumultX_DIY.conf)
 * [京东系列gallery订阅（Faker仓库）](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/QuantumultX_SET/QuantumultX_JD.json)
 * [自用除JD以外的签到脚本Gallery订阅](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/QuantumultX_SET/QuantumultX_Task.json)
 
-## Surge 配置
+## 【Surge 配置】
 ### Surge 懒人配置：（2021.08.7更新）
 * 精简版：（只包含策略组和分流规则，没有重写规则、定时任务，都需要自己添加）
 * [Surge_Lite.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Surge_SET/Surge_Lite.conf)
@@ -46,24 +46,25 @@
 * [Surge_Task.sgmodule](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Surge_SET/Surge_Task.sgmodule) Task其他定时任务远程模块
 
 
-## Loon 配置
+## 【Loon 配置】
 ### Loon 懒人配置：（2021.08.7更新）
 * 精简版：（包含策略组和分流规则，部分常用插件，需要自己添加定时任务、获取Cookie等脚本）
 * [Loon_DIY.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Loon_SET/Loon_DIY.conf)
 ### Loon 远程配置：（2021.08.7更新）
 * [Loon_JS.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Loon_SET/Loon_JS.conf) 非签到类脚本远程订阅（比如京东淘宝比价）
-* [Loon_Cookie.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Loon_SET/Loon_Cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [Loon_Cookie.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Loon_SET/Loon_Cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用
 * [Loon_Task.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Loon_SET/Loon_Task.conf) 其他定时任务远程配置
 
 
-## 脚本大全：（作者按脚本进行分类、整理和更新，十分齐全！）
-* 原作者：Tartarus2014（烧烤哥），GitHub地址：https://github.com/Tartarus2014/ 
+## 【脚本大全】
+* 作者仓库按脚本进行分类、整理和更新，内容十分丰富、齐全！
+* 作者：Tartarus2014（烧烤哥），GitHub地址：https://github.com/Tartarus2014/ 
 ### Loon版本：
 * [Script.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf) 非签到类脚本远程订阅（比如京东淘宝比价）
-* [Cookie.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [Cookie.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用
 * [Task.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Task.conf) 定时任务远程配置
 ### Surge版本：
-* [Cookie.sgmodule](https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Cookie.sgmodule) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [Cookie.sgmodule](https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Cookie.sgmodule) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用
 * [Task.sgmodule](https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Task.sgmodule) 定时任务远程配置
 
 

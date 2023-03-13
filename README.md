@@ -2,8 +2,9 @@
 ### 说明 :
 
 * 本配置只为本人自我方便而引入到本仓库，不对外也不承担任何责任。
-* 只是搬运和同步更新大佬脚本并测试自用，不负责维护脚本。
+* 只本人是搬运和同步更新大佬脚本并测试自用，不负责维护脚本。
 * 十分感谢原作者为脚本的编写、调试和修正等所付出所有努力！
+* 原作者：w37fhy（北纬37度的大飞），电报频道：https://t.me/w37fhyx
 
 ### ShadowRocket 懒人配置：（2023.01.10更新）
 
@@ -54,8 +55,8 @@
 * [Loon_Task.conf](https://github.com/Kooking-Lin/TikTok_CN-SET/blob/main/Loon_SET/Loon_Task.conf) 其他定时任务远程配置
 
 
-### 脚本大全（by Tartarus2014 按脚本作者分类+整理+更新，非常全！）：
-#### 源自Tartarus2014(烧烤哥)GitHub地址：https://github.com/Tartarus2014/ 
+### 脚本大全：（作者按脚本进行分类、整理和更新，十分齐全！）
+#### 原作者：Tartarus2014(烧烤哥)，GitHub地址：https://github.com/Tartarus2014/ 
 #### Loon版本：
 * [Script.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf) 非签到类脚本远程订阅（比如京东淘宝比价）
 * [Cookie.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.

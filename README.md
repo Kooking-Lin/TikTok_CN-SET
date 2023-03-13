@@ -56,7 +56,7 @@
 
 
 ### 脚本大全：（作者按脚本进行分类、整理和更新，十分齐全！）
-#### 原作者：Tartarus2014(烧烤哥)，GitHub地址：https://github.com/Tartarus2014/ 
+* 原作者：Tartarus2014（烧烤哥），GitHub地址：https://github.com/Tartarus2014/ 
 #### Loon版本：
 * [Script.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf) 非签到类脚本远程订阅（比如京东淘宝比价）
 * [Cookie.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
